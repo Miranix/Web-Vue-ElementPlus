@@ -1,0 +1,20 @@
+{
+  "name": "jsonapi",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "daimi",
+    "email": "11@11.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "nx run web-renderer:start",
+    "build": "nx run web-renderer:build"
+  },
+  "dependencies": {
+  },
+  "workspaces": [
+    "web-renderer"
+  ]
+}
