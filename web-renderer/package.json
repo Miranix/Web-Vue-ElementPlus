@@ -1,12 +1,12 @@
 {
   "name": "web-renderer",
-  "AppName": "jsonapi",
+  "AppName":"{{name}}",
   "version": "0.0.1",
   "private": true,
   "license": "MIT",
   "author": {
-    "name": "daimi",
-    "email": "11@11.com"
+    "name": "{{author}}",
+    "email": "{{email}}"
   },
   "type": "module",
   "scripts": {
